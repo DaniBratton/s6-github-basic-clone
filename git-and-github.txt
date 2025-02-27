@@ -1,0 +1,3 @@
+how to write commits
+how so switch between branches
+how to upload things to github
