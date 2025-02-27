@@ -1,0 +1,3 @@
+how to take things from guthub and place them in git
+how to navigate it
+how to look at other people's projects
